@@ -1,6 +1,6 @@
 # 💫 About Me
 
-## Hi, I'm [Your Name] 👋
+## Hi, I'm Shekhar 👋
 
 ### Backend Developer | Transitioning from Unity Game Development
 
